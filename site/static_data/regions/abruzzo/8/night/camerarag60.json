@@ -1,0 +1,44 @@
+{
+  "markers": [
+    {
+      "markerType": "image",
+      "markerSource": "mare adriatico notte.jpg",
+      "resourceName": "Il Mare Adriatico di notte",
+      "resourceCaption": "-Per alcuni storici il nome Adriatico deriva da Adria, città veneta, poi etrusca. Per altri, dal paese abruzzese Atri, un tempo colonia romana.\n-Questo piccolo mare (rispetto al mar Nero o al Baltico), che è la parte orientale del mar Mediterraneo, da almeno il 1000 a.C. svolge un ruolo di crocevia commerciale e culturale tra Oriente e Occidente, seppur in maniera minore rispetto al suo litorale orientale o al Mediterraneo in generale. Infatti è nell’alto Medioevo, con lo sviluppo mercantile di Venezia, che l’Adriatico inizia ad assumere una certa valenza commerciale.\n-I primi navigatori a frequentarlo regolarmente pare siano stati i Micenei.",
+      "longitude": 6.038865154683643,
+      "latitude": 0.08554481003037684
+    },
+    {
+      "markerType": "audio",
+      "markerSource": "60s.mp3",
+      "resourceName": "Musica anni 60",
+      "resourceCaption": "",
+      "longitude": 3.0127571941764377,
+      "latitude": -0.27484321613797524
+    },
+    {
+      "markerType": "image",
+      "markerSource": "buonobruttocattivo.jpg",
+      "resourceName": "Il buono, il brutto, il cattivo",
+      "resourceCaption": "-Considerato uno dei più celebri western della storia del cinema, fu girato da Sergio Leone nel 1966, dopo “Per un pugno di dollari” e “Per qualche dollaro in più”; con i quali completa la trilogia del dollaro di Leone.\n-Il protagonista comune dei tre film, Clint Eastwood, mostra un collegamento tra gli stessi: l’ultimo film può essere considerato un prequel dei primi due.\n-Le colonne sonore dei tre i film sono di Ennio Morricone.\n-Nei tre protagonisti del film, in linea col pensiero di Leone, coesistono luce e ombra, bellezza e bruttezza, umanità e spietatezza.\n-Inizialmente divise il pubblico, ma si rivelò ben presto un capolavoro considerato da molti (ad esempio da Tarantino) la più bella pellicola della storia del cinema.\n-Il budget fu di 1,3 milioni di dollari, una cifra incredibile per l’epoca.",
+      "longitude": 0.403012108683456,
+      "latitude": 0.2756377328117965
+    },
+    {
+      "markerType": "image",
+      "markerSource": "beatles.jpg",
+      "resourceName": "I Beatles",
+      "resourceCaption": "-Durante gli anni 60 una rock band inglese è destinata ad entrare nella storia: i Beatles.\n-John Lennon e Paul McCartney si conoscono nel ’57 a Liverpool in un concerto dove suonano in due gruppi diversi; nel ’58 conoscono George Harrison e i tre formano i The Quarrymen; nel ’59 vi entra il bassista Stuart e nel ’60, con l’ingresso del batterista Pete Best, nascono i Beatles e il loro look leggendario.\n-Nel ’62 la Decca non è convinta del loro provino, al contrario della EMI, la quale tuttavia chiede la sostituzione di Best con Ringo Star. È l’anno del loro primo successo internazionale Love me do. Due anni dopo ben 5 loro brani erano nella top 5 americana ed Elisabetta II conferiva loro il titolo di Baronetti.",
+      "longitude": 0.7807675856669442,
+      "latitude": 0.12184422085520219
+    },
+    {
+      "markerType": "image",
+      "markerSource": "fisher 500-B.jpg",
+      "resourceName": "Stereo ricevitore-amplificatore Fisher 500-B",
+      "resourceCaption": "-Nel 1930 Avery Fisher inizia i suoi primi esperimenti di design dell’audio. Nel ’37 ha già progettato innovativi amplificatori, sintonizzatori ed altoparlanti e fondato la società Filarmonica, che venderà nel ’45 per dedicarsi alla Fisher Radio.\n-Nel ’50 dona il suo più grande contributo alla tecnologia audio con i primi amplificatori a transito e il radiofonografo stereofonico.\n-Nel ’60 presenta forse il suo più grande successo, il ricevitore stereo multiplex FM 500-C, un dispositivo capace di riprodurre un suono quasi perfetto: ne sono state prodotte oltre 100000 unità. \n-Nel ’65 viene prodotta la versione 500-B.",
+      "longitude": 2.8676248667079958,
+      "latitude": -0.27670887666059807
+    }
+  ]
+}
