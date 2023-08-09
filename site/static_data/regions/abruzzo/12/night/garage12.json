@@ -69,10 +69,10 @@
     {
       "markerType": "image",
       "markerSource": "rancitelli notte.jpeg",
-      "resourceName": "Quartiere Rancitelli Pescara",
-      "resourceCaption": "-Il quartiere popolare, divenuto tristemente famoso per i suoi casi di cronaca, venne ideato negli anni 60, in pieno boom edilizio, dove parallelamente in molte città italiane le periferie cominciavano a riempirsi, e doveva rispondere alla necessità di dare un vitto alle famiglie in difficoltà.\n-L’edificio del Ferro di Cavallo, nello stesso quartiere, fu costruito tra il 71 e il 73, e prende nome dalla sua forma. Successivamente il suo piano iniziale viene modificato, creando un complesso molto più ampio ed esteso, divenuto negli anni teatro di episodi di spaccio e violenza.",
-      "longitude": 0.7984319525150185,
-      "latitude": 0.13990692892675227
+      "resourceName": "Quartiere Rancitelli",
+      "resourceCaption": "•Quartiere popolare, divenuto tristemente famoso per i suoi casi di cronaca, viene ideato negli anni 60, in pieno boom edilizio, quando in molte città italiane le periferie cominciano a riempirsi; e doveva rispondere alla necessità di dare un vitto alle famiglie in difficoltà.      •L’edificio Ferro di Cavallo, nello stesso quartiere, viene costruito tra il ’71 e il ’73 e prende il nome dalla sua forma. Successivamente il suo piano edilizio iniziale viene modificato, creando un complesso molto più ampio ed esteso, divenuto negli anni teatro di episodi di spaccio e violenza.",
+      "longitude": 0.7982958774558626,
+      "latitude": 0.14539558260632535
     }
   ]
 }

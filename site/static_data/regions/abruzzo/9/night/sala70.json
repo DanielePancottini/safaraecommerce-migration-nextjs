@@ -1,20 +1,20 @@
 {
   "markers": [
     {
-      "markerType": "audio",
-      "markerSource": "1976.mp3",
-      "resourceName": "Musica anni 70",
-      "resourceCaption": "",
-      "longitude": 1.8301453237137213,
-      "latitude": -0.14691343537175805
-    },
-    {
       "markerType": "video",
       "markerSource": "spot70-1.mp4",
       "resourceName": "Pubblicità anni 70",
-      "resourceCaption": "",
-      "longitude": 3.164956481972928,
-      "latitude": -0.1474192450376437
+      "resourceCaption": "Collage di brevi spezzoni modificati di spot anni 70",
+      "longitude": 3.1643813535728076,
+      "latitude": -0.11925558825102556
+    },
+    {
+      "markerType": "audio",
+      "markerSource": "1970-1.mp3",
+      "resourceName": "Musica anni 70",
+      "resourceCaption": "Collage di brevi spezzoni modificati dei seguenti brani: 1) Queen-Bohemian Rhapsody\n2) Pink Floyd-Shine On You Crazy Diamond, Pts. 1-5\n3) Santana-Europa (Earth’s Cry Heaven’s Smile)\n4) Bob Dylan-One More Cup of Coffe\n5) Queen-Love of My Life\n6) Diana Ross-Theme From Mahogany (Do You Know Where You’re Going To)\n7) Eric Carmen-All By Myself\n8) Rod Stewart-Sailing\n9) Pink Floyd-Wish You Were Here\n10) Aerosmith-Dream On\n11) Bob Dylan-Hurricane\n12) Stevie Wonder-Isnt’t She Lovely\n13) Donna Summer-Could It Be Magic\n14) ABBA-Dancing Queen \n15) Bee Gees-You Should Be Dancing\n16) Tina Charles-I Love To Love \n17) Hot Chocolate-You Sexy Thing \n18) The Real Thing-You To Me Are Everything\n19) KC and the Sunshine Band-That’s the Way (I Like It)\n20) Tavares-Heaven Must Be Missing An Angel\n21) ABBA-Mamma Mia\n22) The Ritchie Family-The Best Disco In Town \n23) Silver Convention-Fly Robin Fly\n24) Afric Simone-Ramaya\n25) Barry White-Let The Music Play \n26) ABBA-S.O.S.\n27) Donna Summer-Love To Love You Baby\n28) John Miles-Music\n29) Kraftwerk-Radioactivity\n30) ABBA-Fernando\n31) David Bowie-Station to Station (Live Nassau Coliseum ’76)\n32) Electric Light Orchestra-Evil Woman \n33) Queen-You’re My Best Friend \n34) Kiss-Rock And Roll All Nite \n35) Neil Young & Crazy Horse-Cortez the Killer \n36) Genesis-A Trick of the Tail\n37) Fleetwood Mac-Rhiannon ",
+      "longitude": 1.831704945459838,
+      "latitude": -0.12243201598233178
     }
   ]
 }

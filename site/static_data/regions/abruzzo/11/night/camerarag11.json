@@ -5,24 +5,24 @@
       "markerSource": "1990.mp3",
       "resourceName": "Musica anni 90",
       "resourceCaption": "",
-      "longitude": 1.0252723245847066,
-      "latitude": -0.3333139151343427
+      "longitude": 2.215413394426389,
+      "latitude": 0.5870754943997821
     },
     {
       "markerType": "audio",
-      "markerSource": "1990.mp3",
+      "markerSource": "1990-1.mp3",
       "resourceName": "Musica anni 90",
-      "resourceCaption": "",
-      "longitude": 2.220858416991044,
-      "latitude": 0.6007525905471682
+      "resourceCaption": "Collage di brevi spezzoni modificati dei seguenti brani: 1) Depeche Mode-Enjoy the Silence\n2) Londonbeat-I’ve Been Thinking About You \n3) Lisa Stansfield-All Around the World\n4) Madonna-Vogue\n5) Sinéad O’Conor-Nothing Compares 2 U\n6) Phill Collins-Another Day In Paradise\n7) Roxette-It Must Have Been Love\n8) Richard Marx-Angelia\n9) George Michael-Praying for Time\n10) Chris Isaak-Wicked Game\n11) Dee Dee Bridgewater-Angel Of The Night \n12) Tears for Fears-Woman In Chains (Jakkatta Awakened Mix Radio Edit)\n13) Mariah Carey-Love Takes Time\n14) Michael Bolton-How Am I Supposed to Live Without You\n15) UB40-Kingston Town\n16) Phil Collins-I Wish It Would Rain Down\n17) Nick Kamen-I Promised Myself\n18 Depeche Mode-Policy of Truth \n19) Pet Shop Boys-So Hard\n20) Whitney Houston-I’m Your Baby Tonight\n21) Cher-If I Could Turn Back Time\n22) Duran Duran-Violence of Summer (Love’s Taking Over)\n23) Jon Bon Jovi-Blaze of Glory\n24) Skid Row-I Remember You\n25) Aerosmith-Janie’s Got a Gun \n26) AC/DC-Thunderstruck\n27) Fait No More-Epic\n28) Rod Steward-It Takes Two\n29) Giorgio Moroder Project-To Be Number One (Summer 1990)\n30) Bob Geldof-The Great Song of Indifference\n31) The Versionarys-Black Velvet (Karaoke Version) ",
+      "longitude": 1.0386205348335504,
+      "latitude": -0.3583509244067089
     },
     {
       "markerType": "image",
       "markerSource": "lanciano notte.jpg",
       "resourceName": "Lanciano",
-      "resourceCaption": "-Sembra che il territorio di Lanciano fu abitato già tra il VI e il V millennio a.C., mentre la tradizione vuole che la città sia stata fondata nel 1179 a.C da Solima, un profugo giunto in Italia insieme ad Enea dopo la distruzione di Troia, che la chiamò Anxanum; lo stesso fondò anche la vicina Sulmona.\n-Era abitata in antichità dal popolo Frentano, di origina sannitica, che diventò federato dei Romani dopo la prima sconfitta nelle due guerre sannitiche. \n-Sempre in epoca romana, Lanciano inizia ad acquisire una certa visibilità e prosperità grazie alle sue famose fiere, dette nundinae, favorite dalla collocazione strategica cella città, vicino al mare, ma su una collina (quindi difendibile) e crocevia di rotte commerciali via terra tra la Puglia e l’Italia settentrionale. Ad essere rinomate erano anche le sue istituzioni e le importanti e numerose manifatture (aghi, lane, sete, tele reti e corde). Le fiere raggiungono il loro splendore nel XV secolo.\n-Alcune tradizioni locali, antiche maestranze e sopratutto l’organizzazione della città funzionale alle sue antiche fiere, sono tuttora visibili in Lanciano.",
-      "longitude": 0.1839519246604466,
-      "latitude": 0.13212680927171716
+      "resourceCaption": "•Il territorio di Lanciano fu abitato già tra il VI e il V millennio a.C., mentre la tradizione vuole che la città sia stata fondata nel 1179 a.C da Solima, un profugo giunto in Italia insieme ad Enea dopo la distruzione di Troia, che la chiamò Anxanum; lo stesso fondò anche la vicina Sulmona.      •Era abitata in antichità dal popolo Frentano, di origina sannitica, che diventò federato dei Romani dopo la prima sconfitta nelle due guerre sannitiche.      •In epoca romana Lanciano inizia ad acquisire una certa visibilità e prosperità grazie alle sue famose fiere, dette nundinae, favorite dalla collocazione strategica cella città, vicino al mare, ma su una collina (quindi difendibile) e crocevia di rotte commerciali via terra tra la Puglia e l’Italia settentrionale. Ad essere rinomate erano anche le sue istituzioni e le importanti e numerose manifatture (aghi, lane, sete, tele reti e corde). Le fiere raggiungono il loro splendore nel XV secolo.      •Alcune tradizioni locali e l’organizzazione della città funzionale alle sue antiche fiere, sono tuttora visibili in Lanciano.",
+      "longitude": 0.19109485047404537,
+      "latitude": 0.11665503700145008
     }
   ]
 }

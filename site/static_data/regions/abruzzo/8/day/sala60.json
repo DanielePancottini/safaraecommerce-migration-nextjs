@@ -9,20 +9,20 @@
       "latitude": -0.3573638368960066
     },
     {
-      "markerType": "image",
-      "markerSource": "l'aquila.jpg",
-      "resourceName": "L'Aquila",
-      "resourceCaption": "•Il territorio dell’Aquila, a 721m sul livello del mare, era abitato già nel III sec a.C. da popolazioni di Sabini e Vestini. Se si considera uno dei simboli della città, il Mammut rinvenuto nel 1954 a Scoppito, essa sarebbe “abitata” già un milione e trecentomila anni fa. La città sabina Amiternum dette i natali ad Appio Claudio Cieco e a Sallustio, ma scomparì nel X secolo. Altri villaggi sabino-romani, come Forcona, sopravvissero fino al 1254, anno di fondazione dell’Aquila per volontà di 99 castelli che si ribellarono al sistema feudale. \n•Poco dopo la sua fondazione, venne rasa suolo da Manfredi e fu ricostruita da Carlo d’Angiò.\n•Svolse da subito un ruolo di crocevia di traffici commerciali attraverso la rete dei tratturi: il commercio della lana e dello zafferano gli permisero di estendere i rapporti a livello internazionale. \n•Fu tra le grandi città del Regno di Napoli prima, del Regno delle due Sicilie poi, e infine del Regno d’Italia, divenendo capoluogo d’Abruzzo.",
-      "longitude": 6.097355269987505,
-      "latitude": 0.04375170447925303
-    },
-    {
       "markerType": "video",
       "markerSource": "spot60-1.mp4",
       "resourceName": "Pubblicità anni 60",
       "resourceCaption": "Collage di brevi spezzoni modificati di spot anni 60",
       "longitude": 0.38169932961825376,
       "latitude": -0.1613900226437135
+    },
+    {
+      "markerType": "image",
+      "markerSource": "l'aquila.jpg",
+      "resourceName": "L'Aquila",
+      "resourceCaption": "•Il territorio dell’Aquila, a 721m sul livello del mare, era abitato già nel III sec a.C. da popolazioni di Sabini e Vestini. Se si considera uno dei simboli della città, il Mammut rinvenuto nel 1954 a Scoppito, esso sarebbe “abitato” già un milione e trecentomila anni fa. La città sabina Amiternum dette i natali ad Appio Claudio Cieco e a Sallustio, ma scomparì nel X secolo. Altri villaggi sabino-romani, come Forcona, sopravvissero fino al 1254, anno di fondazione dell’Aquila per volontà di 99 castelli che si ribellarono al sistema feudale.      •Poco dopo la sua fondazione, venne rasa suolo da Manfredi e fu ricostruita da Carlo d’Angiò.      •Svolse da subito un ruolo di crocevia di traffici commerciali attraverso la rete dei tratturi: il commercio della lana e dello zafferano gli permisero di estendere i rapporti a livello internazionale.      •Fu tra le grandi città del Regno di Napoli prima, del Regno delle due Sicilie poi, e infine del Regno d’Italia, divenendo capoluogo d’Abruzzo. ",
+      "longitude": 6.096273715821557,
+      "latitude": 0.05418434264057037
     }
   ]
 }

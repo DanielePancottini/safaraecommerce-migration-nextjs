@@ -1,20 +1,20 @@
 {
   "markers": [
     {
-      "markerType": "image",
-      "markerSource": "gran sasso notte.jpeg",
-      "resourceName": "Il Gran Sasso",
-      "resourceCaption": "-Situato interamente in Abruzzo, il Gran Sasso è il più alto gruppo montuoso degli Appennini e confina con le province dell’Aquila, Teramo e Pescara.\n-Lungo 50km e largo 15km, ha un perimetro di 130km; è composto da calcari, dolonia e marne, e comprende numerosi ghiacciai e cascate.\n-Chiamato dagli antichi Romani Fiscellus Mons (Monte Ombelico), per la sua posizione centale nella penisola, e nel Medioevo Montecorno, per il suo Corno Grande, sembra che la denominazione Gran Sasso risalga al Rinascimento.\n-Era abitato già dall’uomo di Neandertal, che vi cacciava le numerose specie animali, alcune tuttora presenti; fin dalla preistoria, ha favorito un intenso scambio commerciale grazie ai numerosi passi (nonostante fossero impervi e poco praticabili) che collegavano i territori del versante teramano con quello aquilano. All’epoca dei Normanni vi furono aperti numerosi tratturi, utilizzati dai pastori per condurre le mandrie nel Tavoliere delle Puglie.",
-      "longitude": 0.10328715507638395,
-      "latitude": 0.11279770756369545
-    },
-    {
       "markerType": "video",
       "markerSource": "spot80-1.mp4",
       "resourceName": "Pubblicità anni 80",
-      "resourceCaption": "",
-      "longitude": 4.866176020623738,
-      "latitude": -0.05653312743128769
+      "resourceCaption": "Collage di brevi spezzoni modificati di spot anni 80",
+      "longitude": 4.859026406347107,
+      "latitude": -0.05227287965587468
+    },
+    {
+      "markerType": "image",
+      "markerSource": "gran sasso notte.jpeg",
+      "resourceName": "Il Gran Sasso",
+      "resourceCaption": "•Situato in Abruzzo, il Gran Sasso è il più alto gruppo montuoso degli Appennini e confina con le province dell’Aquila, Teramo e Pescara.      •Lungo 50km e largo 15km, ha un perimetro di 130km; è composto da calcari, dolonia e marne e comprende numerosi ghiacciai e cascate.      •Denominato dagli antichi Romani Fiscellus Mons (Monte Ombelico), per la sua posizione centale nella penisola, e nel Medioevo Montecorno, per il suo Corno Grande, sembra che il nome Gran Sasso risalga al Rinascimento.      •Era già abitato dall’uomo di Neandertal; fin dalla preistoria, ha favorito un intenso scambio commerciale grazie ai numerosi passi che collegavano il versante teramano con quello aquilano. All’epoca dei Normanni vi furono aperti numerosi tratturi, utilizzati dai pastori per condurre le mandrie nel Tavoliere delle Puglie.",
+      "longitude": 0.10927024284149627,
+      "latitude": 0.16222242674839404
     }
   ]
 }
