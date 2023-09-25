@@ -73,6 +73,42 @@
       "resourceCaption": "•Quartiere popolare, divenuto tristemente famoso per i suoi casi di cronaca, viene ideato negli anni 60, in pieno boom edilizio, quando in molte città italiane le periferie cominciano a riempirsi; e doveva rispondere alla necessità di dare un vitto alle famiglie in difficoltà.      •L’edificio Ferro di Cavallo, nello stesso quartiere, viene costruito tra il ’71 e il ’73 e prende il nome dalla sua forma. Successivamente il suo piano edilizio iniziale viene modificato, creando un complesso molto più ampio ed esteso, divenuto negli anni teatro di episodi di spaccio e violenza.",
       "longitude": 0.7470779657635664,
       "latitude": 0.18751721598060445
+    },
+    {
+      "markerType": "product",
+      "markerSource": "bici-elettrica-algi-e-bikes-trk-x-500w-48v-perfetta",
+      "longitude": 2.4248222073048002,
+      "latitude": -0.4810145881403738
+    },
+    {
+      "markerType": "product",
+      "markerSource": "hoverboard-rosa",
+      "longitude": 3.668782252906421,
+      "latitude": -1.1342309888047146
+    },
+    {
+      "markerType": "product",
+      "markerSource": "copricerchi-originali-tesla",
+      "longitude": 4.75067301319277,
+      "latitude": 0.2697006126966994
+    },
+    {
+      "markerType": "product",
+      "markerSource": "cerchi-e-gomme-wolkswagen-golf-225-45-r17",
+      "longitude": 4.785792176824732,
+      "latitude": -0.13428961988043953
+    },
+    {
+      "markerType": "product",
+      "markerSource": "manubrio-10kg-domyos-2-kit",
+      "longitude": 4.779222102628622,
+      "latitude": -0.37044512242776095
+    },
+    {
+      "markerType": "product",
+      "markerSource": "volante-originale-fiat-abarth-airbag-perfetto",
+      "longitude": 0.703317883148389,
+      "latitude": -0.15852258179118306
     }
   ]
 }

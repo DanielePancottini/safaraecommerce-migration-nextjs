@@ -11,6 +11,18 @@
       "markerSource": "tagliasiepe-elettrico-perfetto",
       "longitude": 5.27049899694846,
       "latitude": -0.4063772244270467
+    },
+    {
+      "markerType": "product",
+      "markerSource": "abbacchiatore-a-batteria-jhonsorr-giallo-perfetto",
+      "longitude": 2.455816061482974,
+      "latitude": -0.5915437591669406
+    },
+    {
+      "markerType": "product",
+      "markerSource": "abbacchiatore-a-batteria-forza-5-verde-perfetto",
+      "longitude": 3.164860924092534,
+      "latitude": -0.7733127020864736
     }
   ]
 }

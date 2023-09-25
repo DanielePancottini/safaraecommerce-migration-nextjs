@@ -15,6 +15,12 @@
       "resourceCaption": "Collage di brevi spezzoni modificati di spot anni 90",
       "longitude": 3.057027460267157,
       "latitude": 0.03455775043834208
+    },
+    {
+      "markerType": "product",
+      "markerSource": "libreria-kartell-bookworm-rosso-perfetta",
+      "longitude": 2.103132954751464,
+      "latitude": 0.2535002416723042
     }
   ]
 }

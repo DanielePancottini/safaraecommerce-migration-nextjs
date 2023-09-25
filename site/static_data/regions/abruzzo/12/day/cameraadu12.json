@@ -21,6 +21,24 @@
       "resourceCaption": "•Situato ad un’altezza di 1096m, sulla parete orientale del Corno Grande, l’eremo è una piccola chiesa in stile romanico, che si stima risalga tra il X e l’XI secolo.      •Era gestito dai monaci camaldolesi che lo abbandonarono nel 1393 a causa della decadenza della struttura.      •La chiesa è costituita da blocchi di pietra squadrati, misura 14m di lunghezza e 5,5m di larghezza, possiede un’unica navata suddivisa da tre archi in due campate e presbitero. Il pavimento è in mattoni disposti a spina di pesce. All’interno vi sono resti di affreschi ormai deteriorati.      •Viene restaurata nel 1947.      •Il sentiero nei pressi dll’eremo conduce alla fonte di San Nicola, la cui acqua è ritenuta benevola per la cura del mal di testa.",
       "longitude": 6.0152916571615265,
       "latitude": 0.2864619907138204
+    },
+    {
+      "markerType": "product",
+      "markerSource": "macchina-fotografica-nikon-d-300-con-obiettivo-nikkor-50mm-f-1-8",
+      "longitude": 2.8773966245494362,
+      "latitude": -0.08315055004879746
+    },
+    {
+      "markerType": "product",
+      "markerSource": "cappello-stetson-panama-59-perfetto",
+      "longitude": 4.392905879070561,
+      "latitude": -0.14691889429627514
+    },
+    {
+      "markerType": "product",
+      "markerSource": "cappello-stetson-diaz-marrone-l",
+      "longitude": 4.4234087065515535,
+      "latitude": 0.04936701886523487
     }
   ]
 }

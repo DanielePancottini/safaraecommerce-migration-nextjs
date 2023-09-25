@@ -27,6 +27,18 @@
       "resourceCaption": "Collage di brevi spezzoni modificati di spot anni 2000",
       "longitude": 1.8023859674002767,
       "latitude": 0.16620636373457898
+    },
+    {
+      "markerType": "product",
+      "markerSource": "gelatiera-macom-just-kitchen",
+      "longitude": 3.599315898271044,
+      "latitude": -0.017769595811315764
+    },
+    {
+      "markerType": "product",
+      "markerSource": "affettatrice-zhuhai",
+      "longitude": 4.365681550344593,
+      "latitude": -0.024929580292496256
     }
   ]
 }

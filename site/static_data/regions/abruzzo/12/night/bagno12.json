@@ -5,6 +5,12 @@
       "markerSource": "cassa-bluetooth-blu-wster-ws-q9",
       "longitude": 6.0550858925384095,
       "latitude": 0.009325945013365367
+    },
+    {
+      "markerType": "product",
+      "markerSource": "scaldabagno-ariston-andris-rs-10-3",
+      "longitude": 1.759906665651997,
+      "latitude": -0.3271158935468197
     }
   ]
 }
